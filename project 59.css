@@ -1,0 +1,39 @@
+.profile {
+    border-radius: 50%;
+height:304px;
+  width:200px;
+}
+
+
+
+body {
+    margin: 0;
+    padding-top: 30px;
+    text-align: center;
+     background-image: linear-gradient(red ,yellow );
+ 
+}
+
+p {
+    font-size: 30px;
+  
+}
+
+h1 {
+
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+
+.parallax-innerr{
+    height: 300px;
+    width: 200px;
+}
+  
+
+
+
+
+
